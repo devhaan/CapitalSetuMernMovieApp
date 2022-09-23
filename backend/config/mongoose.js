@@ -1,6 +1,6 @@
 
 
-const DB='mongodb+srv://dev07dev:dev07dev@cluster0.9pbyf.mongodb.net/FavoritesMovies?retryWrites=true&w=majority'
+const DB='mongodb+srv://***************@cluster0.9pbyf.mong****************'
 
 const mongoose = require('mongoose');
 
